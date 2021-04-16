@@ -1,0 +1,7 @@
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\bin\Debug\State.exe.config
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\bin\Debug\State.exe
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\bin\Debug\State.pdb
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\obj\Debug\State.exe
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\State\obj\Debug\State.pdb

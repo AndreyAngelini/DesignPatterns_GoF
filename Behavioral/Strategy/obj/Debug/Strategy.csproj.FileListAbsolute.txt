@@ -1,7 +1,0 @@
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\bin\Debug\Strategy.exe.config
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\bin\Debug\Strategy.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\bin\Debug\Strategy.pdb
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\obj\Debug\Strategy.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Strategy\obj\Debug\Strategy.pdb

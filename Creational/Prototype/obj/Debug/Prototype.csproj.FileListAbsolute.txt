@@ -1,7 +1,0 @@
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\bin\Debug\Prototype.exe.config
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\bin\Debug\Prototype.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\bin\Debug\Prototype.pdb
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\obj\Debug\Prototype.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\Prototype\obj\Debug\Prototype.pdb

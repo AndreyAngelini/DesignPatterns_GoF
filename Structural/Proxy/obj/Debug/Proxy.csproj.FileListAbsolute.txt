@@ -1,7 +1,0 @@
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\bin\Debug\Proxy.exe.config
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\bin\Debug\Proxy.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\bin\Debug\Proxy.pdb
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\obj\Debug\Proxy.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Proxy\obj\Debug\Proxy.pdb

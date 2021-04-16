@@ -1,7 +1,0 @@
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\obj\Debug\AbstractFactory.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\AbstractFactory\obj\Debug\AbstractFactory.pdb

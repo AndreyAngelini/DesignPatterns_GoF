@@ -1,7 +1,0 @@
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\bin\Debug\Observer.exe.config
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\bin\Debug\Observer.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\bin\Debug\Observer.pdb
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\obj\Debug\Observer.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS COMPORTAMENTAIS\Observer\obj\Debug\Observer.pdb

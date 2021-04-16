@@ -1,7 +1,0 @@
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\bin\Debug\Composite.exe.config
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\bin\Debug\Composite.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\bin\Debug\Composite.pdb
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\obj\Debug\Composite.exe
-C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Composite\obj\Debug\Composite.pdb

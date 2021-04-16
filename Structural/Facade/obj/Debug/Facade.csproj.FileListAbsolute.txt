@@ -1,0 +1,7 @@
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\bin\Debug\Facade.exe.config
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\bin\Debug\Facade.exe
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\bin\Debug\Facade.pdb
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\obj\Debug\Facade.exe
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,7 @@
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\bin\Debug\Adapter.exe.config
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\bin\Debug\Adapter.exe
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\bin\Debug\Adapter.pdb
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\obj\Debug\Adapter.exe
+C:\Andrey\Pessoal\Cursos Udemy\Curso de Design Patterns com C# - Desenvolvimento Avançado\Exercicios\Pratico\PATTERNS ESTRUTURAIS\Adapter\obj\Debug\Adapter.pdb
